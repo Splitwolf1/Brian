@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Designer
 --------------------------
 
-a passionate front-end developer with a knack for crafting immersive and responsive user experiences. My expertise lies in transforming design concepts into clean and efficient code, leveraging the latest technologies like HTML5, CSS, and JavaScript. I thrive on creating visually appealing and intuitive interfaces that seamlessly interact with users. 🛠️ Whether it's collaborating with cross-functional teams, optimizing performance, or solving intricate UI challenges, I'm dedicated to delivering high-quality code that not only meets but exceeds expectations. Let's build captivating web experiences together! 🌐 Explore my repositories to discover my coding journey and feel free to reach out for collaboration or discussions on all things front-end development. Happy coding! 🚀✨
+a passionate front-end developer and programming analyst with a knack for crafting immersive and responsive user experiences. My expertise lies in transforming design concepts into clean and efficient code, leveraging the latest technologies like HTML5, CSS, and JavaScript. I thrive on creating visually appealing and intuitive interfaces that seamlessly interact with users. 🛠️ Whether it's collaborating with cross-functional teams, optimizing performance, or solving intricate UI challenges, I'm dedicated to delivering high-quality code that not only meets but exceeds expectations. Let's build captivating web experiences together! 🌐 Explore my repositories to discover my coding journey and feel free to reach out for collaboration or discussions on all things front-end development. Happy coding! 🚀✨
 
-* 🌍  I'm based in Western Cape , South Africa
+* 🌍  I'm based in Harare , Zimbabwe
 * 🖥️  See my portfolio at [My Portfolio](http://manyaradev.com)
 * 🚀  I'm currently working on [Car Rental](http://manyaradev.com)
 * 🧠  I'm learning NextJs
